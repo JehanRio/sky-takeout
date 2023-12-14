@@ -17,3 +17,7 @@ sky:
     host: 127.0.0.1
     port: 6379
 
+  wechat:
+    appid: wx9bc0d10670cc068c
+    secret: fabc607ad97fd0a70008833a9e68966a
+
